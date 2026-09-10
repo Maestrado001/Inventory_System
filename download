@@ -1,0 +1,14 @@
+# Local / editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Never commit credentials
+*.json
+service-account*.json
+credentials*.json
