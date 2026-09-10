@@ -3,7 +3,7 @@
   Set API_URL to your deployed Google Apps Script Web App URL.
   Do not put a Google service-account key or private secret in this file.
 */
-const API_URL = "https://script.google.com/macros/s/AKfycbxTg_xYKpvMUltYmT_cJ010-79lfZcfBbvVFZnv22_mcOtIvEzi4Jgp0d71Br1Kyb-TXg/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbyuk6fEE7v-6NVr6VK5msq4JCBGLTpBaNnC4Ii2OOga0LqeNtkgwdoN9icWh5DuDe4alg/exec";
 let session = null;
 let products = [];
 let movements = [];
